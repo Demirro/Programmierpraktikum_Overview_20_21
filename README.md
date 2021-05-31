@@ -1,37 +1,30 @@
-# Übersicht zum Programmierpraktikum (WiSe 20/21 & SoSe21)
+# Übersicht zum Programmierpraktikum
 
-You can use the [editor on GitHub](https://github.com/Demirro/Programmierpraktikum_Overview_20_21/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Diese Seite soll den den schnellen Zugriff auf die diversen Übungen und Inhalte der zwei Java-Semester bieten. Zusätzlich findet ihr hier auch weiterführende Links auf den Wegweiser und andere Inhalte.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Übrigens 💬
+📖 &nbsp; [**Inhalt**](#inhalt-book) &mdash; Zum Inhaltsverzeichnis springen!  
+🤔 &nbsp; [**Was ist das hier**](Was-Ist-Das.md) &mdash; Bzw. was ist es nicht?  
+👩‍💻 &nbsp; [**Contributing**](Mitwirken.md) &mdash; Oder: Wie kann ich hier mitwirken?  
+🛋️ &nbsp; [**Lese-Ansicht**](https://dh-cologne.github.io/java-wegweiser) &mdash; Wenn du aus Versehen im Repository gelandet bist!  
+📕 &nbsp; [**Glossar**](Glossar.md) &mdash; Allgemeine Terminologie der Programmierung (wichtig)!  
+🔗 &nbsp; [**Link-Liste**](Links.md) &mdash; Weitere empfehlenswerte (online-) Ressourcen!  
+🏷 &nbsp; [**Java Naming Conventions**](articles/Naming-Conventions.md) ...wollen befolgt werden!
 
-### Markdown
+## Inhalt 📖
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> Hier findet ihr eine Übersicht über die verschiedenen Stunden/Inhalte
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Wintersemester
 
-- Bulleted
-- List
+#### [Syntax, Variablen,](articles/Benoetigte-Software.md)
+> `JDK` `Eclipse IDE` `Download` `Installation` ...
 
-1. Numbered
-2. List
+#### [Die Programmiersprache Java](articles/Die-Programmiersprache-Java.md)
+> `Warum Java?` `Warum nicht?` `Besonderheiten` `Java Platform` `Java Ecosystem` `Packages` `Hello World!` ...
 
-**Bold** and _Italic_ and `Code` text
+#### [Eclipse IDE](articles/Eclipse-IDE.md)
+> `IDE` `Warum Eclipse?` `Workspaces` `Views` `Editor` `Die wichtigsten Funktionen` `Import` `Export` `Console` `Ausführen von Programmen` `Automatisch generierter Code`...
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Demirro/Programmierpraktikum_Overview_20_21/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
