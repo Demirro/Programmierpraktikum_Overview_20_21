@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Übersicht zum Programmierpraktikum (WiSe 20/21 & SoSe21)
 
 You can use the [editor on GitHub](https://github.com/Demirro/Programmierpraktikum_Overview_20_21/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
