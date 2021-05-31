@@ -3,7 +3,7 @@ layout: default
 title: "Syntax, Variablen und Datentypen"
 date: 2020-11-12 12:00:00 -0000
 categories: java wise basics
-excerpt_separator_ <!--more-->
+excerpt_separator: <!--more-->
 ---
 
 Eine kleine Einführung in die Basics der Java-Syntax und Bausteine für das Basteln erster Programme.
