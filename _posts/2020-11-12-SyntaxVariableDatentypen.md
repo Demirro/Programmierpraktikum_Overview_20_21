@@ -10,7 +10,7 @@ Eine kleine Einführung in die Basics der Java-Syntax und Bausteine für das Bas
 
 [Link zum Repository](https://github.com/Demirro/12-11_Syntax_Variablen_Datentypen)
 
-#Willkommen bei der ersten Übungsaufgabe.
+# Willkommen bei der ersten Übungsaufgabe.
 
 Zu aller Erst: Guckt euch das Seminarvideo an bevor ihr diese Aufgabe bearbeitet.
 Die Videos bzw. das Hauptseminar werden immer die Grundlage für diese Übungsaufgaben bilden.
