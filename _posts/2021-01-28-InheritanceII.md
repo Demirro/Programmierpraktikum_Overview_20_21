@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Inheritance II (Vererbung II)"
 date: 2021-01-28 12:00:00 -0000
 categories: java wise basics
