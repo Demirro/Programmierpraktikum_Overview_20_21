@@ -4,7 +4,7 @@ title: "Klassen, Interfaces (Wiederholung"
 date: 2021-04-29 12:00:00 -0000
 categories: java sose basics
 excerpt_separator: <!--more-->
-external_link: https://github.com/Demirro/SoSe21_02_KlassenInterfaces_Wiederholung
+external_link: https://github.com/Demirro/SoSe21_02_KlassenInterfaces_Wiederholung/
 ---
 Der erste Teil der Wiederholung für das zweite Semester des Java-Seminars.
 <!--more-->
