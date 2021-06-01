@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Klassen, Interfaces (Wiederholung"
-date: 2020-11-12 12:00:00 -0000
+date: 2021-04-29 12:00:00 -0000
 categories: java sose basics
 excerpt_separator: <!--more-->
 external_link: https://github.com/Demirro/SoSe21_02_KlassenInterfaces_Wiederholung
