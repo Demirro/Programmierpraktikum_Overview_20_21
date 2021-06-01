@@ -48,7 +48,7 @@
       <div class="posts">
         <div class="wise">
           <h2>Wintersemester:</h2>
-        {% for post in site.categories.wise %}
+        {% for post in site.categories.wise reversed %}
         {% if post.url %}
         <article class="post">
           <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><span class="post-date">{{ post.date | date_to_string: "DE" }}</span></h3>
@@ -64,7 +64,7 @@
           </div>
             <div class="sose">
               <h2>Sommersemester:</h2>
-        {% for post in site.categories.sose %}
+        {% for post in site.categories.sose reversed %}
         {% if post.url %}
         <article class="post">
           <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><span class="post-date">{{ post.date | date_to_string: "DE" }}</span></h3>
