@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Inheritance (Vererbung)"
-date: 2020-01-21 12:00:00 -0000
+date: 2021-01-21 12:00:00 -0000
 categories: java wise advanced
 excerpt_separator: <!--more-->
 ---
