@@ -4,11 +4,12 @@ title: "Inheritance II (Vererbung II)"
 date: 2021-01-28 12:00:00 -0000
 categories: java wise basics
 excerpt_separator: <!--more-->
+external_link: https://github.com/Demirro/28-01_Inheritance_II
 ---
 Vererbung Teil 2: Die Rückkehr der Kinderklassen. Hier wird das Überschreiben von Methoden geübt.
 <!--more-->
 
-[Link zum Repository](https://github.com/Demirro/28-01_Inheritance_II)
+
 
 # 28-01_Inheritance_II
 Übungsaufgabe für das Programmierpraktikum im Wise 20/21 zum 28.01.2021
