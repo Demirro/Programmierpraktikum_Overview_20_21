@@ -5,6 +5,24 @@
     font-size: 0.8rem;
 }
 
+.main {
+    max-width: 80rem;
+}
+
+.posts {
+    display: flex;
+  flex-wrap: wrap;
+  --margin: 1rem;
+  --modifier: calc(40rem - 100%);
+  margin: calc(var(--margin) * -1);
+}
+
+.posts > * {
+  flex-grow: 1;
+  flex-basis: calc(var(--modifier) * 999);
+  margin: var(--margin);
+}
+
 .post {
     margin: 1rem;
         margin-top: 1rem;
