@@ -22,7 +22,7 @@
 .posts > * {
   flex-grow: 1;
   flex-basis: calc(var(--modifier) * 999);
-  margin: var(--margin);
+  //margin: var(--margin);
 }
 
 .post {
