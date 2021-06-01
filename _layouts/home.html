@@ -44,9 +44,10 @@
     <main id="content" class="main-content" role="main">
       {{ content }}
       
-      <h1>Aufgaben und Themen aus dem Wintersemester:</h1>
+      <h1>Aufgaben und Themen</h1>
       <div class="posts">
         <div class="wise">
+          <h2>Wintersemester:</h2>
         {% for post in site.categories.wise %}
         {% if post.url %}
         <article class="post">
@@ -61,6 +62,7 @@
         {% endif %}
         {% endfor %}
             <div class="sose">
+              <h2>Sommersemester:</h2>
         {% for post in site.categories.sose %}
         {% if post.url %}
         <article class="post">
