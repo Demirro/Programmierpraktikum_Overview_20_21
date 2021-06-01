@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Static und Lopps"
-date: 2020-11-26 12:00:00 -0000
+date: 2020-12-10 12:00:00 -0000
 categories: java wise advanced
 excerpt_separator: <!--more-->
 ---
