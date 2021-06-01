@@ -1,14 +1,13 @@
 ---
-layout: default
+layout: post
 title: "Static und Lopps"
 date: 2020-12-10 12:00:00 -0000
 categories: java wise advanced
 excerpt_separator: <!--more-->
+external_link: https://github.com/Demirro/10-12_Static_and_Loops
 ---
 Was macht das Stichwort Static und wie kann man Sachen wiederholt durchführen?
 <!--more-->
-
-[Link zum Repository](https://github.com/Demirro/10-12_Static_and_Loops)
 
 # 10-12 Static und Loops
 Übungsaufgabe für das Programmierpraktikum im Wise 20/21 zum 10.12.2020
