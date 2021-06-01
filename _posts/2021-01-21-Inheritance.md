@@ -1,14 +1,13 @@
 ---
-layout: default
+layout: post
 title: "Inheritance (Vererbung)"
 date: 2021-01-21 12:00:00 -0000
 categories: java wise advanced
 excerpt_separator: <!--more-->
+external_link: https://github.com/Demirro/21-01_Inheritance
 ---
 Programmstruktur aufbauen, Klassen verbinden und Eigenschaften und Methoden von einer Klasse zur nächsten vererben
 <!--more-->
-
-[Link zum Repository](https://github.com/Demirro/21-01_Inheritance)
 
 # 21-01_Inheritance
 Übungsaufgabe für das Programmierpraktikum im Wise 20/21 zum 21.01.2021
