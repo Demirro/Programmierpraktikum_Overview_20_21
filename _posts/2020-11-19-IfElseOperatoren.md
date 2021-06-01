@@ -1,14 +1,13 @@
 ---
-layout: default
+layout: post
 title: "If & Else Operatoren"
 date: 2020-11-19 12:00:00 -0000
 categories: java wise basics
 excerpt_separator: <!--more-->
+external_link: https://github.com/Demirro/16-11_IfElse_Operatoren
 ---
 Der Grundstein der Programmierung: If-Else in Java
 <!--more-->
-
-[Link zum Repository](https://github.com/Demirro/16-11_IfElse_Operatoren)
 
 # 16-11_IfElse_Operatoren
 Übungsaufgabe für das Programmierpraktikum im Wise 20/21 für den 16.11.2020
