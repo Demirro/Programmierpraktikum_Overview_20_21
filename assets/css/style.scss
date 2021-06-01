@@ -1,5 +1,16 @@
 ---
 ---
+// Headers
+$header-heading-color: #fff !default;
+$header-bg-color: #202040 !default;
+$header-bg-color-secondary: #543864 !default;
+
+// Text
+$section-headings-color: #159957 !default;
+$body-text-color: #606c71 !default;
+$body-link-color: #1e6bb8 !default;
+$blockquote-text-color: #819198 !default;
+
 @import "jekyll-theme-cayman";
 .post-date {
     font-size: 0.8rem;
