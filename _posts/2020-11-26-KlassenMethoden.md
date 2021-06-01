@@ -4,11 +4,10 @@ title: "Klassen und Methoden"
 date: 2020-11-26 12:00:00 -0000
 categories: java wise basics
 excerpt_separator: <!--more-->
+external_link: https://github.com/Demirro/26-11_Klassen_Methoden
 ---
-Ohne und Klassen und Methoden kommen wir bei Java nicht weit.
+Ohne Klassen und Methoden kommen wir bei Java nicht weit.
 <!--more-->
-
-[Link zum Repository](https://github.com/Demirro/26-11_Klassen_Methoden)
 
 # 26-11_Klassen_Methoden
 Übungsaufgabe für das Programmierpraktikum im Wise 20/21 für den 26.11.2020
