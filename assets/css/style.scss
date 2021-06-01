@@ -46,6 +46,8 @@ $blockquote-text-color: #819198 !default;
 
 .box{
   //transform : translate(-50% ,-50%);
+    display: flex;
+    justify-content: center;
 }
 
 .rm-btn:link,
@@ -55,7 +57,7 @@ $blockquote-text-color: #819198 !default;
   position:relative;
   top:0;
   left:0;
-  padding:20px 40px;
+  padding:15px 30px;
   border-radius:100px;
   display:inline-block;
   transition: all .5s;
