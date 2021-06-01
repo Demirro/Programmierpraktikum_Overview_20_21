@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Klassen und Methoden"
 date: 2020-11-26 12:00:00 -0000
 categories: java wise basics
