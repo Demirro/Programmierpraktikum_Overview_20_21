@@ -6,7 +6,7 @@ categories: java wise advanced
 excerpt_separator: <!--more-->
 external_link: https://github.com/Demirro/21-01_Inheritance
 ---
-Programmstruktur aufbauen, Klassen verbinden und Eigenschaften und Methoden von einer Klasse zur nächsten vererben
+Programmstruktur aufbauen, Klassen verbinden und Eigenschaften und Methoden von einer Klasse zur nächsten vererben. Eines der Wichtigsten Konzepte der Objektorientierten Programmierung. In dieser Aufgaben spielen wir Gott in der Schöpfungsgeschichte und bauen unsere Realität rudimentär nach. (Es soll kein religiöser Kommentar sein, weder positiv, noch negativ)
 <!--more-->
 
 # 21-01_Inheritance
