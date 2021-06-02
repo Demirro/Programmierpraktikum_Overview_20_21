@@ -40,7 +40,7 @@ margin-top: 100px;
 
 .back-span,
   .icon {
-    display: none;
+    display: block;
     height: 100%;
     text-align: center;
     position: absolute;
@@ -49,6 +49,7 @@ margin-top: 100px;
   
   .back-span {
     width: 72%;
+	  display:none;
     line-height: inherit;
     font-size: 22px;
     text-transform: uppercase;
