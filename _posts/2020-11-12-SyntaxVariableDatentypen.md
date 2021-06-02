@@ -48,7 +48,6 @@ Ein String wird genutzt, um eine längere Zeichenkette, wie einen Satz, zu speic
 `String variable = "Hier ist eine längere Zeichenkette";`
 
 Den Datentypen String werdet ihr in dieser Aufgabe nutzen müssen.
-
     
 ### ℹ️ Resourcen:
 Hier noch ein paar nützliche 📃Artikel, 🖊️Threads und 🎥Videos
