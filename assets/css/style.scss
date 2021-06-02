@@ -35,7 +35,7 @@ $transition: all #{$speed} cubic-bezier(0.310, -0.105, 0.430, 1.400);
   border-radius: 5px;
   box-shadow: 0 0 20px 0 rgba(0,0,0,.3);
   transition: $transition;
-}
+
 
 .back-span,
   .icon {
@@ -76,10 +76,37 @@ $transition: all #{$speed} cubic-bezier(0.310, -0.105, 0.430, 1.400);
       transition: $transition, height #{$speed} ease;
     }
     
-    .fa-remove {
+    .fa-arrow-left {
       height: 36px;
     }
 }
+    &:hover {
+		
+		span {
+			left: -72%;
+			opacity: 0;
+		}
+		
+		.icon {
+			width: 100%;
+			
+			.fa {
+				font-size: 45px;
+			}
+		}
+	}
+    	&:hover {
+		opacity: .9;
+		
+		.icon .fa-remove {
+			height: 46px;
+		}
+	}
+	
+	&:active {
+		opacity: 1;
+	}
+    }
 
 .post-date {
     font-size: 0.8rem;
