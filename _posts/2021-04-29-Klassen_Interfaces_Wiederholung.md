@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Klassen, Interfaces (Wiederholung"
+title: "Klassen, Interfaces (Wiederholung)"
 date: 2021-04-29 12:00:00 -0000
 categories: java sose basics
 excerpt_separator: <!--more-->
