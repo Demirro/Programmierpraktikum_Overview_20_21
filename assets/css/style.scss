@@ -11,6 +11,8 @@ $body-text-color: #202040 !default;
 $body-link-color: #8AB0AB !default;
 $blockquote-text-color: #819198 !default;
 
+$color: #c0392b;
+$color-dark: #a53125;
 $speed: "0.25s";
 $transition: all #{$speed} cubic-bezier(0.310, -0.105, 0.430, 1.400);
 
@@ -22,7 +24,7 @@ $transition: all #{$speed} cubic-bezier(0.310, -0.105, 0.430, 1.400);
     top: 2rem;
     padding: 0.5rem;
     display: block;
-  background-color: blanchedalmond;
+  background-color: $color;
   line-height: 100px;
   margin: auto;
   color: #fff;
@@ -31,6 +33,50 @@ $transition: all #{$speed} cubic-bezier(0.310, -0.105, 0.430, 1.400);
   border-radius: 5px;
   box-shadow: 0 0 20px 0 rgba(0,0,0,.3);
   transition: $transition;
+}
+
+.back-span,
+  .icon {
+    display: block;
+    height: 100%;
+    text-align: center;
+    position: absolute;
+    top: 0;
+  }
+  
+  .back-span {
+    width: 72%;
+    line-height: inherit;
+    font-size: 22px;
+    text-transform: uppercase;
+    left: 0;
+    transition: $transition;
+    
+    &:after {
+      content: '';
+      background-color: $color-dark;
+      width: 2px;
+      height: 70%;
+      position: absolute;
+      top: 15%;
+      right: -1px;
+    }
+  }
+  
+  .icon {
+    width: 28%;
+    right: 0;
+    transition: $transition;
+    
+    .fa {
+      font-size: 30px;
+      vertical-align: middle;
+      transition: $transition, height #{$speed} ease;
+    }
+    
+    .fa-remove {
+      height: 36px;
+    }
 }
 
 .post-date {
