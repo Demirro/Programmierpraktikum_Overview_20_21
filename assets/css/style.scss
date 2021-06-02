@@ -12,6 +12,24 @@ $body-link-color: #8AB0AB !default;
 $blockquote-text-color: #819198 !default;
 
 @import "jekyll-theme-cayman";
+
+.back-btn {
+    position: absolute;
+    left: 2rem;
+    top: 2rem;
+    padding: 0.5rem;
+    display: block;
+  background-color: $color;
+  line-height: 100px;
+  margin: auto;
+  color: #fff;
+  cursor: pointer;
+  overflow: hidden;
+  border-radius: 5px;
+  box-shadow: 0 0 20px 0 rgba(0,0,0,.3);
+  transition: $transition;
+}
+
 .post-date {
     font-size: 0.8rem;
     float: right;
