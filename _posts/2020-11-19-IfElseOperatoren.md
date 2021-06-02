@@ -6,7 +6,7 @@ categories: java wise basics
 excerpt_separator: <!--more-->
 external_link: https://github.com/Demirro/16-11_IfElse_Operatoren
 ---
-Der Grundstein der Programmierung: If-Else in Java
+Der Grundstein der Programmierung: If-Else in Java. Mit If und Else können wir Abfragen in unser Programm einbauen. Wir gehen also weg vom linearen Programmieren. Hier werden Noten berechnet, um die Funktionsweise von If und Else zu zeigen.
 <!--more-->
 
 # 16-11_IfElse_Operatoren
