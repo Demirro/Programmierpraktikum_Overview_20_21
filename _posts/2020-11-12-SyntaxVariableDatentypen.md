@@ -6,7 +6,7 @@ categories: java wise basics
 excerpt_separator: <!--more-->
 external_link: https://github.com/Demirro/12-11_Syntax_Variablen_Datentypen
 ---
-Eine kleine Einführung in die Basics der Java-Syntax und Bausteine für das Basteln erster Programme.
+Eine kleine Einführung in die Basics der Java-Syntax und Bausteine für das Basteln erster Programme. In dieser Aufgaben wird ein Personalausweis in Java nachgebaut.
 <!--more-->
 
 # Willkommen bei der ersten Übungsaufgabe.
