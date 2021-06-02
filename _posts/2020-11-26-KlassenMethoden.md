@@ -6,7 +6,7 @@ categories: java wise basics
 excerpt_separator: <!--more-->
 external_link: https://github.com/Demirro/26-11_Klassen_Methoden
 ---
-Ohne Klassen und Methoden kommen wir bei Java nicht weit.
+Ohne Klassen und Methoden kommen wir bei Java nicht weit. Das sind die Grundlagen der Objektorientierten Programmierung. Hier wird das Konzept anhand eines rudimentären Banksystems veranschaulicht.
 <!--more-->
 
 # 26-11_Klassen_Methoden
