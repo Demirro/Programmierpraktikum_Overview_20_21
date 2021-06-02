@@ -6,7 +6,7 @@ categories: java wise advanced
 excerpt_separator: <!--more-->
 external_link: https://github.com/Demirro/10-12_Static_and_Loops
 ---
-Was macht das Stichwort Static und wie kann man Sachen wiederholt durchführen? Programmiert hier eine Hilfsklasse mit diversen mathematischen Methoden
+Was macht das Stichwort Static und wie kann man Sachen wiederholt durchführen? Programmiert hier eine Hilfsklasse mit diversen mathematischen Methoden.
 <!--more-->
 
 # 10-12 Static und Loops
