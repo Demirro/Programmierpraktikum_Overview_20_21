@@ -11,6 +11,7 @@ $body-text-color: #202040 !default;
 $body-link-color: #8AB0AB !default;
 $blockquote-text-color: #819198 !default;
 
+$speed: "0.25s";
 $transition: all #{$speed} cubic-bezier(0.310, -0.105, 0.430, 1.400);
 
 @import "jekyll-theme-cayman";
