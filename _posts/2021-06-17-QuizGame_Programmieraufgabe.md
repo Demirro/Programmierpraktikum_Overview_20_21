@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "01 Programmierprojekt Quiz Game: Basics"
+title: "Programmierprojekt: Quiz - 01 Basics"
 date: 2021-06-17 12:00:00 -0000
 categories: java sose advanced project
 excerpt_separator: <!--more-->
