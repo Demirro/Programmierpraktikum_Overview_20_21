@@ -1,4 +1,4 @@
-ur: demirro.github.io
+url: demirro.github.io
 baseurl: /Programmierpraktikum_Overview_20_21
 remote_theme: lewismiddleton/cayman-dark
 
@@ -13,3 +13,5 @@ defaults:
       # to update the code of all other post links in this project.
       permalink: /posts/:title/
   -
+  plugins:
+  - jekyll-archives
