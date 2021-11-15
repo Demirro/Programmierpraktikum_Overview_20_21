@@ -31,7 +31,7 @@ Anhand der nun errechneten Prozent sollte ihr jetzt eine Ausgabe generieren, die
 | 4 (ausreichend)  | 59-50   |
 | 5 (mangelhaft)   | 49-35   |
 | 6 (ungenügend)   | 34-0    |
-{: .tablelines}
+{{: .tablelines}}
 
 Um diese Ausgabe zu generieren müssen wir überprüfen, in welchem Bereich des Notenspiegels der Wert der Variable *erreichteProzente* fällt. Dazu brauchen wir:
 
