@@ -1,6 +1,7 @@
 url: demirro.github.io
 baseurl: /Programmierpraktikum_Overview_20_21
 remote_theme: lewismiddleton/cayman-dark
+markdown: GFM
 
 defaults:
   -
