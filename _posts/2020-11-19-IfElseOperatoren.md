@@ -22,6 +22,7 @@ Ihr habt in der letzten Seminarstunde das Casting und Operatoren kennengelernt. 
 Ihr sollt diese Woche einen Notenrechner erstellen. In der Vorlage sind zwei Variablen gegeben (*erreichtePunktzahl* und *maximalePunktzahl*). Ihr sollt eine dritte Variable (*erreichteProzente*) aus den zwei ersten Variablen errechnen.
 
 Anhand der nun errechneten Prozent sollte ihr jetzt eine Ausgabe generieren, die sagt ob die Punktzahl reicht um zu bestehen und welche Note man bekommt. Dazu folgender Notenspiegel:
+
 | Note             | Prozent |
 |------------------|---------|
 | 1 (sehr gut)     | 100-90  |
