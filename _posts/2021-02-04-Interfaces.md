@@ -4,7 +4,7 @@ title: "Interfaces"
 date: 2021-02-04 12:00:00 -0000
 categories: java wise advanced
 excerpt_separator: <!--more-->
-external_link: https://github.com/Demirro/04-02-Interfaces
+external_link: https://github.com/Demirro/04-02_Interfaces
 ---
 Was steckt genau hinter den ominösen Interfaces? Exkurs und Aufgabe.
 <!--more-->
